@@ -1,0 +1,15 @@
+C:\Users\danie\Documents\GitHub\Adresse Programm\bin\Debug\net6.0\Adresse Programm.exe
+C:\Users\danie\Documents\GitHub\Adresse Programm\bin\Debug\net6.0\Adresse Programm.deps.json
+C:\Users\danie\Documents\GitHub\Adresse Programm\bin\Debug\net6.0\Adresse Programm.runtimeconfig.json
+C:\Users\danie\Documents\GitHub\Adresse Programm\bin\Debug\net6.0\Adresse Programm.dll
+C:\Users\danie\Documents\GitHub\Adresse Programm\bin\Debug\net6.0\Adresse Programm.pdb
+C:\Users\danie\Documents\GitHub\Adresse Programm\obj\Debug\net6.0\Adresse Programm.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\GitHub\Adresse Programm\obj\Debug\net6.0\Adresse Programm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\GitHub\Adresse Programm\obj\Debug\net6.0\Adresse Programm.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\GitHub\Adresse Programm\obj\Debug\net6.0\Adresse Programm.AssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\Adresse Programm\obj\Debug\net6.0\Adresse Programm.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\Adresse Programm\obj\Debug\net6.0\Adresse Programm.dll
+C:\Users\danie\Documents\GitHub\Adresse Programm\obj\Debug\net6.0\refint\Adresse Programm.dll
+C:\Users\danie\Documents\GitHub\Adresse Programm\obj\Debug\net6.0\Adresse Programm.pdb
+C:\Users\danie\Documents\GitHub\Adresse Programm\obj\Debug\net6.0\Adresse Programm.genruntimeconfig.cache
+C:\Users\danie\Documents\GitHub\Adresse Programm\obj\Debug\net6.0\ref\Adresse Programm.dll
